@@ -20,12 +20,12 @@
 * CJ 제일제당 SQL 튜닝 , 성능저하 분석 (MS-SQL)
 * CJ 프레시웨이 SQL 튜닝 (Oracle)
 * NS 홈쇼핑 SQL 튜닝 (Oracle)
-11번가 (Oracle, Exadata)
-신규 프로젝트 SQL 전수 검사 및 tunning
-DA , 표준화
-메타데이터 관리
-10g -≫ 11g upgrade 쿼리 점검 및 사전튜닝 및 사전작업
-sub dba
+* 11번가 (Oracle, Exadata)
+  - 신규 프로젝트 SQL 전수 검사 및 tunning
+  - DA , 표준화
+  - 메타데이터 관리
+  - 10g -≫ 11g upgrade 쿼리 점검 및 사전튜닝 및 사전작업
+  - sub dba
 굿어스
 +Oracle DB 기술지원, SQL Tunning, 트러블슈팅 등
 Java 개발
