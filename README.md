@@ -43,13 +43,13 @@ JEUS, Ajax, Lafj, CVS 등)
 + 금융결제원 퇴직연금 시스템 (EJB, JAVA, JSP, Eclipse, ORACLE, JEUS, STRUTS, MS Visual Source Safe, TY BIZ)
 + MSV(미용실 솔루션), CRM 터치스크린 등 (java, jsp, oracle, tomcat, apache 등)
 + Payment Gate (java, jsp, oracle, linux)
-  1. 온라인 등록 관련 프로세스
-  2. 결제(승인)건에 대한 SMS 발송 및 EMAIL 전송 프로세스
-  3. 거래내역 조회 및 거래내역, 정산내역 파일화 프로세스
-  4. 배치성 정산내역 및 공지건에 대한 EMAIL 전송 프로세스
-  5. 상점 상세 정보 관리 프로세스
-  6. 본사,총판,대리점 매출현황 관리 프로세스
-  7. 본사, 총판, 대리점, 상점 관리자 화면 리뉴얼 작업등등
+  - 온라인 등록 관련 프로세스
+  - 결제(승인)건에 대한 SMS 발송 및 EMAIL 전송 프로세스
+  - 거래내역 조회 및 거래내역, 정산내역 파일화 프로세스
+  - 배치성 정산내역 및 공지건에 대한 EMAIL 전송 프로세스
+  - 상점 상세 정보 관리 프로세스
+  - 본사,총판,대리점 매출현황 관리 프로세스
+  - 본사, 총판, 대리점, 상점 관리자 화면 리뉴얼 작업등등
 + Web Contents Management System (User별 일정관리, XML Contents File Import 구현) - J2SE1.3, JSP, Struts FrameWork/ resin
 container, Apache Server, linux환경 / Oracle8i (DB접근 FrameWork이용)
 
