@@ -68,12 +68,6 @@ container, Apache Server, linux환경 / Oracle8i (DB접근 FrameWork이용)
 
 ## 📊 프로젝트 (Project)
 ------
-![trash](assets/img/trash.jpeg)
+![프로젝트_썸네일_포뮬라](https://github.com/user-attachments/assets/a139b7b5-a4c5-4370-b35f-f0ce21734802)
+- GAT & CATBoost 모델 활용. 금융사기 데이터 분석 및 비교
 
-[딥러닝: 쓰레기 분류 모델 만들기](https://github.com/dongchanlim/Python-Machine-Learning/blob/main/Semester_Project.ipynb)
-- CNN 모델을 사용하여 재활용 쓰레기 이미지로 종류를 분류하는 예측 모델을 만들었습니다.
-
-![newyork](assets/img/newyork.jpeg)
-
-[뉴욕시 에어비엔비 태블로 분석](https://public.tableau.com/app/profile/dongchan.lim/viz/AirbnbPractice_15699654202660/Story1)
-- 뉴욕시에 있는 에어비엔비의 데이터를 시각화하여 고객들이 숙소 가격 과 평점을 한눈에 보고 비교할 수 있어요!
